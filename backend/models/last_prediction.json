@@ -1,0 +1,22 @@
+{
+    "input": {
+        "si": 0.11,
+        "fe": 0.18,
+        "metalTemp": 702.0,
+        "castingWheelRpm": 2.0,
+        "coolingWaterPressure": 4.1,
+        "coolingWaterTemp": 35.0,
+        "castBarEntryTemp": 571.0,
+        "rollingMillRpm": 798.0,
+        "emulsionTemp": 60.0,
+        "emulsionPressure": 2.3,
+        "rodQuenchWaterPressure": 200.0
+    },
+    "prediction": {
+        "uts": 11.752999999999997,
+        "elongation": 11.12199999999999,
+        "conductivity": 60.908333333333246,
+        "timestamp": "2025-12-10T10:36:44.060428+05:30",
+        "model_version": "1.0.0"
+    }
+}
