@@ -24,3 +24,5 @@ dist-ssr
 *.sw?
 backend\__pycache__\
 pred_folder
+
+# Large model files (exceed GitHub 100MB limit)
