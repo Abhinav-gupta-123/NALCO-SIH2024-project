@@ -1,4 +1,4 @@
-# NALCO SIH2024: Advanced Industrial Process Optimization Dashboard
+# NALCO SIH2024: Advanced Industrial Optmization Process Overview
 
 A state-of-the-art industrial dashboard developed for **National Aluminium Company (NALCO)** to predict, analyze, and optimize material properties in the manufacturing process.
 
